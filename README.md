@@ -1,5 +1,5 @@
 # Django-AngularJS-Scrumcard
-The goal is to develop a Scrumcard board where one can create various scrumcards for different lists such as To do list, In progress etc. The project is developed using AngularJS for front-end, Django for writing server-side code. The REST (Django REST framework) is used to pass data between front-end JS and back-end python code.
+The goal is to develop a Scrumboard where one can create various scrumcards for different lists such as To do list, In progress etc. The project is developed using AngularJS for front-end, Django for writing server-side code. The REST (Django REST framework) is used to pass data between front-end JS and back-end python code.
 
 ## Prerequisites
 * Install python (version 3.5) from [here](https://www.python.org/downloads/)
